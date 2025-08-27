@@ -1,2 +1,2 @@
-# MV-WBC
-Multiple Humanoid Robots whole-body teleoperation with webcams as input.
+# GRiT
+A System for Grounded and Real-time Multi-Humanoid Teleoperation from Vision
