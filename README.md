@@ -1,7 +1,7 @@
 # GRiT
 A System for Grounded and Real-time Multi-Humanoid Teleoperation from Vision
 
-## 
+## BibTeX
 ```
 @software{xu2025grit,
 title={GRiT: A System for Grounded and Real-time Multi-Humanoid Teleoperation from Vision},
